@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LockScreenTestApp</string>
+    <string name="app_icon">App Icon</string>
+    <string name="draw_pattern">Draw the pattern to unlock the application</string>
+    <string name="register_btn">Register</string>
+    <string name="enter_pin">Enter Pin</string>
+    <string name="save_pin_btn">Save Pin</string>
+    <string name="setup_app_lock_via">Setup App Lock Via</string>
+    <string name="finger_print_btn">Finger Print</string>
+    <string name="pattern_lock_btn">Pattern Lock</string>
+    <string name="pin_lock_btn">Pin Lock</string>
+    <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
+</resources>
